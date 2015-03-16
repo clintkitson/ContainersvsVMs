@@ -40,6 +40,7 @@ Setup the argument where Ops is heavily focused on these things
 - The Apps
 - Continuously deploying features
 - Abstracted and controlled software architectures
+ - Infrastructure as Code
 - **Getting what I want when I want it**
 - **Consistency**
 - **Frictionless deployments**
@@ -47,6 +48,7 @@ Setup the argument where Ops is heavily focused on these things
 ---
 
 # Develop **Anywhere** and Deploy **Everywhere**
+# Consistent Packaging and Deployment
 
 ---
 
@@ -72,6 +74,10 @@ Setup the argument where Ops is heavily focused on these things
 ---
 
 ![80%](diagrams/stack4.png)
+
+---
+
+![90%](diagrams/stack7.png)
 
 ---
 
@@ -142,6 +148,12 @@ Setup the argument where Ops is heavily focused on these things
 CONTAINERS AND VMS ARE SYMBIOTIC
 CONTAINERS ALLOW PORTABILITY
 SUPPORT DEVELOPMENT ANYWHERE AND DEPLOYING EVERYWHERE
+
+---
+
+#DEVOPS@EMCWORLD!
+# FREE PRE-SHOW EVENT
+# Sunday @the Venetian 2p-6p
 
 ---
 
