@@ -70,7 +70,7 @@ slidenumbers: true
 # Consistent Packaging and Deployment
 
 ^
-- Is this "Deploy Anywhere" Hybrid Cloud?  How about deploy on the laptop, how about on a PaaS platform, how about on an IaaS offering?  Here there anywhere
+- Is this "Deploy Everywhere" Hybrid Cloud?  How about deploy on the laptop, how about on a PaaS platform, how about on an IaaS offering?  Here there anywhere
 - Does Ops even have "Develop Anywhere" in the minds?
 - This leads us to the technology view that Devs are looking for.  Consitent packaging and deployment will ensure they can develop on their laptops with DevOps tools, and ship it anywhere.
 
